@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StShPlatformApp {
 
 	public static void main(String[] args) {
-		// Prueba
+		// Prueba de commit
 		SpringApplication.run(StShPlatformApp.class, args);
 	}
 
